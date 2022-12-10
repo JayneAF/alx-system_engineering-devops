@@ -1,5 +1,8 @@
 # ssh config file
 Host *
+<<<<<<< HEAD
  
+=======
+>>>>>>> 3e8ee4725060d9a1a4a9780e82da8ad8908fa3ef
       PasswordAuthentication no
       IdentifyFile ~/.ssh/school
