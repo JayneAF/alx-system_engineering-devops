@@ -47,5 +47,5 @@ frontend jayneey-frontend-https
 
 backend jayneey-backend
         balance roundrobin
-        server 63210-web-01 100.25.19.204:80 check
-        server 63210-web-02 54.157.159.85:80 check
+        server 63210-web-01 52.87.232.38:80 check
+        server 63210-web-02 34.204.91.57:80 check
