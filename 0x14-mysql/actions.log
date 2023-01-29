@@ -1,6 +1,6 @@
 
 mysqldump -u root -p tyrell_corp > ~/tyrell_corp.sql
-scp ~/tyrell_corp.sql ubuntu@35.196.78.105:'~/tyrell_corp.sql'
+scp ~/tyrell_corp.sql ubuntu@100.26.166.237:'~/tyrell_corp.sql'
 
 CHANGE MASTER TO
 	MASTER_HOST="34.73.0.174",
